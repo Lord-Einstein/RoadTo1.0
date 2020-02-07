@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{61AEAEBA-7954-3071-C001-0A2A01B3DD4A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/audiocontinuer.cs">
+    <Files>
+      <File FileName="Assets/audiocontinuer.cs" Line="17" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Road to 1.0" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d19a9d94-573f-45b1-abe4-48b779a47f2e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

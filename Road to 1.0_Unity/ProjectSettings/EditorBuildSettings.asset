@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c4076f8d90a24634b8b55531c00822e8
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 73bd77fd77baab44b8900beab08567b3
+  - enabled: 1
+    path: Assets/Scenes/Room01.unity
+    guid: 2fa43db5756c3455b8717dd0ca616fd3
+  - enabled: 1
+    path: Assets/Scenes/Room02.unity
+    guid: 3f3ea4034db2be1408a485c3b59b54d3
+  - enabled: 1
+    path: Assets/Scenes/BattleSceneRichter.unity
+    guid: 123e7b654f945f544b052992ba9a0a3a
+  - enabled: 1
+    path: Assets/Scenes/Room03.unity
+    guid: c1035ea5e23ce448aa9c71795da59a32
+  - enabled: 1
+    path: Assets/Scenes/BattleSceneGreveler.unity
+    guid: b73735daef461a44ba30e79c700ce578
+  - enabled: 1
+    path: Assets/Scenes/Room04.unity
+    guid: 8e766019f12bb4257802fafacf5f67a5
+  - enabled: 1
+    path: Assets/Scenes/Room05.unity
+    guid: 5a027e776ddf940c095fab0d84dc4c6b
+  - enabled: 1
+    path: Assets/Scenes/BattleSceneIurgel.unity
+    guid: e6c38d38cd3b1054a9bbb0a48c7d6a56
+  - enabled: 1
+    path: Assets/Scenes/Loose Screen.unity
+    guid: 329728821c36fda41bab8a7095fec0e8
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a446329d967400c4fad1ea92033cb210
+  m_configObjects: {}
